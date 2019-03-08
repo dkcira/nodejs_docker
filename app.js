@@ -12,6 +12,6 @@ app.get('/docker', (req, res) => {
     res.send("hello from docker!");
 })
 
-app.get('/nodemon', (req, res) => res.send('hello from nodemon!'))
+app.get('/nodemon', (req, res) => res.send('hello from nodemon 1!'))
 
 app.listen(port, () => console.log(`Example app listening on port ${port}!`))
