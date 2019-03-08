@@ -1,0 +1,18 @@
+{
+  "name": "docker_itnext",
+  "version": "1.0.0",
+  "description": "https://itnext.io/docker-from-the-beginning-part-i-ae809b84f89f",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
